@@ -1,0 +1,31 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPath": "/Users/evolentini/esp/v5.4/esp-idf",
+    "idf.pythonInstallPath": "C:\\Users\\tate_\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32.cfg"
+    ],
+    "idf.port": "/dev/tty.usbserial-14130",
+    "idf.toolsPath": "/Users/evolentini/.espressif",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "/Users/evolentini/.espressif/tools/openocd-esp32/v0.11.0-esp32-20221026/openocd-esp32/share/openocd/scripts",
+        "ESP_ROM_ELF_DIR": "/Users/evolentini/.espressif/tools/esp-rom-elfs/20220823/",
+        "IDF_TARGET": "esp32"
+    },
+    "[c]": {
+        "editor.defaultFormatter": "xaver.clang-format",
+        "editor.wordBasedSuggestions": "off",
+        "editor.suggest.insertMode": "replace",
+        "editor.semanticHighlighting.enabled": true
+    },
+    "idf.flashType": "UART",
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "freertos.h": "c",
+        "digitos.h": "c"
+    },
+    "idf.espIdfPathWin": "C:\\Users\\tate_\\esp\\v5.3.2\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\tate_\\.espressif",
+    "idf.portWin": "COM8",
+}
